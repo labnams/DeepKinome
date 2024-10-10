@@ -6,7 +6,7 @@ _DeepKinome_building_source_code.ipynb_ : the jupyter notebook files (python 3) 
 
 _MachineLearning_building_source_code.ipynb_ : the jupyter notebook files (python 3) to construct prediction model and show validation result.
 
-_CDRscan_*.py_ : the python code files to construct CDRscan model for kinase-small molecule interaction prediction
+_CDRscan*.py_ : the python code files to construct CDRscan model for kinase-small molecule interaction prediction
 
 _DeepIC50_building_source_code.ipynb_ : the python code files to construct DeepIC50 model for kinase-small molecule interaction prediction
 
