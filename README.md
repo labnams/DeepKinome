@@ -31,5 +31,32 @@ RAM 64GB
 
 # Contact
 If you have any questions, please contact below.
-Ms. Yeeun Lee (soirlechat@gachon.ac.kr)
+Dr. Yeeun Lee (soirlechat@gachon.ac.kr)
 Prof. Seungyoon Nam (nams@gachon.ac.kr)
+
+# License
+Copyright (c) 2026 Bioinformatics and Genome Medicine Lab.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software, AI models, weights, and associated documentation files (the "Software"), 
+to use, copy, modify, merge, publish, and distribute the Software for Academic Research 
+and Educational Purposes only, subject to the following conditions:
+
+1. NON-COMMERCIAL LIMITATION: 
+   The Software and any derivative works (including but not limited to fine-tuned models, 
+   adapted weights, or applications derived from the Software) MAY NOT be used for any 
+   commercial purposes, commercial production, or financial gain without the express 
+   prior written permission of the copyright holder.
+
+2. ATTRIBUTION: 
+   The above copyright notice and this permission notice shall be included in all
+   copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
