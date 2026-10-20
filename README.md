@@ -4,11 +4,11 @@ This is the code repository for kinase-small molecule interaction prediction mod
 # Code description
 _DeepKinome_building_source_code.ipynb_ : the jupyter notebook files (python 3) to construct prediction model and show validation result.
 
-_MachineLearning_building_source_code.ipynb_ : the jupyter notebook files (python 3) to construct prediction model and show validation result.
+_MachineLearning_building_source_code_v2.ipynb_ : the jupyter notebook files (python 3) to construct prediction model and show validation result.
 
 _CDRscan*.py_ : the python code files to construct CDRscan model for kinase-small molecule interaction prediction
 
-_DeepIC50_building_source_code.ipynb_ : the python code files to construct DeepIC50 model for kinase-small molecule interaction prediction
+_DeepIC50_building_source_code_v2.ipynb_ : the python code files to construct DeepIC50 model for kinase-small molecule interaction prediction
 
 _Deepkinome_toy_train/val/test_dataset.npz_ : the file is a toy example file for deep learning model train/validation/test.
 
